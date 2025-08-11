@@ -11,6 +11,7 @@ const temperature = 41
 // console.log("Execute");
 // <, >, <=, >=, ==, !=, ===, !==
 
+// scopes var is global scoped
 // const score = 200
 
 // if (score > 100) {
@@ -21,6 +22,7 @@ const temperature = 41
 // console.log(`User power: ${power}`);
 
 
+// single line implicitly scoped
 // const balance = 1000
 
 // if (balance > 500) console.log("test"),console.log("test2");
